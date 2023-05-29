@@ -1,0 +1,12 @@
+@import '../../assets/scss/index.scss';
+
+.global-container{
+    // display: flex;
+    // flex-direction: column;
+    // flex-wrap: wrap;
+    // justify-content: space-evenly;
+
+    &-button{
+        width: 200px;
+    }
+}
